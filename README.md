@@ -1,2 +1,0 @@
-# ApiStrnad
-Created with CodeSandbox
